@@ -20,6 +20,9 @@ Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
 
 <h4>Diagrama de Entidade:</h4>
 
+![Diagrama Entidade](https://user-images.githubusercontent.com/72398708/98608113-4c5f0a80-22c9-11eb-8afb-938e16ff5e10.jpeg)
+
+
 <h4>Participantes:</h4>
 
 Diogo Arruda - 200212,<br>
