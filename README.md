@@ -14,7 +14,8 @@ Modulos Login,<br>
 Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
 
 <h4>Diagrama de Classes:</h4>
-![Diagrama de Classes](https://user-images.githubusercontent.com/72398708/98607978-0013ca80-22c9-11eb-818e-04ff07a7c1ea.jpeg)
+
+https://github.com/0jedaaa/AdopetLP/issues/2#issue-739441031
 
 <h4>Diagrama de Entidade:</h4>
 
