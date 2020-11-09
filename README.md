@@ -5,18 +5,18 @@
 
 A Nossa Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
 
-Por enquanto A Primeira versão vai estar
-Contendo a Logo e Nome para a Loja Fictícia,
-Diagrama de Classes,
-Diagrama de Entidade,
-Modulos Login,
-1 Acesso(Cadastro1,Cadastro2),
-Autenticação de Usuario ao Banco de Dados Mysql WorkBench
+Por enquanto A Primeira versão vai estar Contendo: <br>
+Logo e Nome para a Loja Fictícia,<br>
+Diagrama de Classes,<br>
+Diagrama de Entidade,<br>
+Modulos Login,<br>
+1 Acesso(Cadastro1,Cadastro2),<br>
+Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
 
-Participantes: 
+<h4>Participantes:</h4>
 
-  Jonatas Gabriel<br>
-  Júlio Cesar,
-  Diogo Arruda,
-  Victor Hugo,
+  Jonatas Gabriel,<br>
+  Júlio Cesar,<br>
+  Diogo Arruda,<br>
+  Victor Hugo,<br>
   Victor Macedo.
