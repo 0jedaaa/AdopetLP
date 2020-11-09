@@ -5,7 +5,7 @@
 
 A Nossa Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
 
-Por enquanto A Primeira versão vai estar Contendo: <br>
+Contém: <br>
 Logo e Nome para a Loja Fictícia,<br>
 Diagrama de Classes,<br>
 Diagrama de Entidade,<br>
