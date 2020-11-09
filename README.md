@@ -3,9 +3,9 @@
 
 <h2>Loja Fictícia Adopet</h2>
 
-A Nossa Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
+A Nossa Ideia principal é Criar um Sistema contendo Produtos para Animais Adotivos e demais.
 
-Por enquanto a primeira versão Contém:: <br>
+Por enquanto a primeira versão Contém: <br>
 Logo e Nome para a Loja Fictícia,<br>
 Diagrama de Classes,<br>
 Diagrama de Entidade,<br>
@@ -24,7 +24,6 @@ Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
 
 
 <h4>Participantes:</h4>
-
 Diogo Arruda - 200212,<br>
 Victor Hugo - 200763,<br>
 Jonatas Gabriel Ojeda - 200705,<br>
