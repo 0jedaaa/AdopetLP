@@ -1,10 +1,11 @@
 # AdopetLP
 Repositorio para a AC2 de Linguagem de Programação. 
 
-Loja Fictícia Adopet.
+Loja Fictícia Adopet
 
-A Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
+A Nossa Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
 
+Por enquanto A Primeira versão vai estar
 
 Contendo a Logo e Nome para a Loja Fictícia,
 Diagrama de Classes,
@@ -19,4 +20,4 @@ Participantes:
   Júlio Cesar,
   Diogo Arruda,
   Victor Hugo,
-  Victor Macedo,
+  Victor Macedo
