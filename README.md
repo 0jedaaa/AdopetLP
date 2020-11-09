@@ -1,7 +1,7 @@
 # AdopetLP
-Repositorio para a AC2 de Linguagem de Programação. 
+![Design sem nome (20)](https://user-images.githubusercontent.com/72398708/98606692-73680d00-22c6-11eb-8053-a404edeb1a53.png)
 
-<h1> Loja Fictícia Adopet </h1>
+<h2>Loja Fictícia Adopet</h2>
 
 A Nossa Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
 
