@@ -1,4 +1,4 @@
-# AdopetLP
+# Adopet Linguagem de Programação
 ![Design sem nome (20)](https://user-images.githubusercontent.com/72398708/98606692-73680d00-22c6-11eb-8053-a404edeb1a53.png)
 
 <h2>Loja Fictícia Adopet</h2>
