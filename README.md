@@ -15,8 +15,8 @@ Autenticação de Usuario ao Banco de Dados Mysql WorkBench
 
 Participantes: 
 
-  Jonatas Gabriel,
-  Júlio Cesar,
-  Diogo Arruda,
-  Victor Hugo,
+  Jonatas Gabriel;
+  Júlio Cesar;
+  Diogo Arruda;
+  Victor Hugo;
   Victor Macedo
