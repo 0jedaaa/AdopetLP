@@ -2,6 +2,7 @@
 Repositorio para a AC2 de Linguagem de Programação. 
 
 Loja Fictícia Adopet.
+
 A Ideia principal é Criar um Sistema onde vai conter Produtos para Animais Adotivos e demais.
 
 
