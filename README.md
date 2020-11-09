@@ -15,8 +15,8 @@ Autenticação de Usuario ao Banco de Dados Mysql WorkBench.
 
 <h4>Participantes:</h4>
 
-Diogo Arruda  - 200212,<br>
-Victor Hugo – 200763,
-Jonatas Gabriel Ojeda – 200705,<br>
-Júlio Cesar – 200786,<br>
-Victor Macedo – 200196, <br>
+Diogo Arruda - 200212,<br>
+Victor Hugo - 200763,<br>
+Jonatas Gabriel Ojeda - 200705,<br>
+Júlio Cesar - 200786,<br>
+Victor Macedo - 200196.
